@@ -116,10 +116,10 @@ Le projet **Simulation de Génération Procédurale Avancée** est sous licence 
 
 ## Remerciements
 
-Le projet **Simulation de Génération Procédurale Avancée** s'inspire de diverses sources, y compris des articles de recherche, des tutoriels et des projets open source liés à la génération de contenu procédural. Un grand merci aux développeurs et contributeurs qui ont partagé leur connaissance et leur expertise dans ce domaine. Pour voir plus de mes projets, visitez mon [portfolio](https://ren-s-portfolio.web.app)
+Le projet **Simulation de Génération Procédurale Avancée** s'inspire de diverses sources, y compris des articles de recherche, des tutoriels et des projets open source liés à la génération de contenu procédural. Un grand merci aux développeurs et contributeurs qui ont partagé leur connaissance et leur expertise dans ce domaine.
 
 ## Contact
 
-Pour des questions ou des retours concernant le projet **Simulation de Génération Procédurale Avancée**, veuillez contacter Rayan Derradji (Rennsen) à nr_derradji@esi.dz.
+Pour des questions ou des retours concernant le projet **Simulation de Génération Procédurale Avancée**, veuillez contacter Rayan Derradji (Rennsen) à nr_derradji@esi.dz.  Pour voir plus de mes projets, visitez mon [portfolio.](https://ren-s-portfolio.web.app)
 
 ---
