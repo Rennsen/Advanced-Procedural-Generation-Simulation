@@ -57,7 +57,7 @@ The **Advanced Procedural Generation Simulation** project draws inspiration from
 
 ## Contact
 
-For inquiries or feedback regarding the **Advanced Procedural Generation Simulation** project, please contact Rayan Derradji (Rennsen) at nr_derradji@esi.dz.
+For inquiries or feedback regarding the **Advanced Procedural Generation Simulation** project, please contact Rayan Derradji (Rennsen) at nr_derradji@esi.dz. For more of my work, check [here.](https://ren-s-portfolio.web.app)
 
 ---
 
@@ -116,7 +116,7 @@ Le projet **Simulation de Génération Procédurale Avancée** est sous licence 
 
 ## Remerciements
 
-Le projet **Simulation de Génération Procédurale Avancée** s'inspire de diverses sources, y compris des articles de recherche, des tutoriels et des projets open source liés à la génération de contenu procédural. Un grand merci aux développeurs et contributeurs qui ont partagé leur connaissance et leur expertise dans ce domaine.
+Le projet **Simulation de Génération Procédurale Avancée** s'inspire de diverses sources, y compris des articles de recherche, des tutoriels et des projets open source liés à la génération de contenu procédural. Un grand merci aux développeurs et contributeurs qui ont partagé leur connaissance et leur expertise dans ce domaine. Pour voir plus de mes projets, visitez mon [portfolio](https://ren-s-portfolio.web.app)
 
 ## Contact
 
